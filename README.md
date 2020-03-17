@@ -8,5 +8,5 @@ old.js : 기존 버전 (2018)
 old_with_description.js : 기존버전 + 주석
 
 new.js : 수정버전(2020, 속도 향상)
-new_fullSource.js : 수정버전 + reponse + star변수
+new_fullSource.js : 수정버전 + response + star변수
 ```
